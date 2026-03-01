@@ -1,0 +1,24 @@
+# Virtual environment files
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+bin/
+lib64/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Data and Models
+*.pt
+*.csv
+*.mp4
+*.zip
+ALPR_Visuals/
+figures/
