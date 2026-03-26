@@ -1,6 +1,5 @@
 import string
 import easyocr
-
 # Initialize the OCR reader
 reader = easyocr.Reader(['en'], gpu=False)
 
